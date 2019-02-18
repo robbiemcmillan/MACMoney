@@ -1,9 +1,0 @@
-Block Hash: 000368d74802d8adad28f4643b080c444d96018be95b0879ebb032131c061cf1
-Previous Block Hash: 3f76ccd1c87f8cea761a894e42f171ee383d070afa5ad16115f9a59f35f5fddc
-Nonce: 6814
-Time Stamp: 1536933464554
-Transaction ID: N/A
-Sender Address: N/A
-Receiving Address: N/A
-Amount: 0.000000
-
