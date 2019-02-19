@@ -4,5 +4,5 @@ A cryptocurrency and blockchain simulation for a single computer environment dev
   * JDK-11.0.2
   * Suitable IDE
 ##  How to Run.
-Current version runswithin the IDE, printing what is happening within the network to the console and each Peers blockchain to a separate text file. 
+Current version runs within the IDE, printing what is happening within the network to the console and each Peers blockchain to a separate text file. 
 
